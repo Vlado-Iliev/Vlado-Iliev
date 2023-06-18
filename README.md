@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladimir Iliev
-- 💞️ 22 years old, London, UK
-- 👀 I’m interested in cars and programming
-- 🌱 I’m currently learning Python <3
+- 💞️ 23 years old, London, UK
+- 👀 I’m interested in programming and cars
+- 🌱 Junior Python Developer <3
 
 
 <!---
